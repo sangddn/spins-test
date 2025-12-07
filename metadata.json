@@ -1,0 +1,5 @@
+{
+  "name": "Spins",
+  "description": "An AI-powered audiocast player that generates personalized podcasts on the fly.",
+  "requestFramePermissions": []
+}
